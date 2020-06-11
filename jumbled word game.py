@@ -4,7 +4,7 @@ import random
 from tkinter import messagebox
 from random import shuffle
 
-answer=["python","google","yahoo","india"]
+answer=["python","google","yahoo","india"]# add number of words here
 words=[]
 for i in answer:
     word=list(i)
